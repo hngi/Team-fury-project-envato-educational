@@ -1,2 +1,4 @@
 # Team-fury-project-envato-educational
-An educational template to be sold on envato
+
+please ensure your work is reviewed before you commit. 
+when commiting, commit to a branch
