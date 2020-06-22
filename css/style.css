@@ -8,9 +8,6 @@ body, head {
     min-height: 500px;
 }
 
-
-
-
 @media only screen and (max-width:690px) {
     .c-us {
         text-align: center;
@@ -23,4 +20,8 @@ body, head {
 
 .bg-input {
     background-color: #F4EFEF;
+}
+
+.bg-orange {
+    background-color: #E77728;
 }
